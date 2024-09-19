@@ -2,6 +2,39 @@
 @tailwind components;
 @tailwind utilities;
 
+/* @import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;700&display=swap"); */
+
 .custom-h1 {
-  color: red;
+  @apply font-mono;
+  font-size: 4rem;
+  font-weight: bolder;
+}
+
+.custom-h2 {
+  @apply font-mono;
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+.custom-h3 {
+  @apply font-mono;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.custom-img {
+  margin: 0 auto 4rem;
+  width: 50%;
+}
+
+.custom-p {
+  margin-bottom: 2rem;
+}
+
+/* .custom-em {
+  font-weight: bold;
+} */
+
+.custom-hr {
+  margin-bottom: 2rem;
 }

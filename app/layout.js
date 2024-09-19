@@ -66,9 +66,12 @@ export default function RootLayout({ children }) {
           className={`${roboto_mono.variable} font-mono max-w-7xl antialiased min-h-screen text-center mx-auto`}
         >
           <header>
-            <Header />
+            <nav>
+              <Header />
+            </nav>
           </header>
           {children}
+          <hr className="mt-16" />
           <footer>
             <Footer />
           </footer>

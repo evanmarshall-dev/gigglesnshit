@@ -2,6 +2,7 @@ import "@/app/globals.css";
 import { roboto_mono } from "@/app/ui/fonts";
 import Footer from "@/app/ui/Footer";
 import Header from "@/app/ui/Header";
+import { SpeedInsights } from "@vercel/speed-insights/next";
 
 export const metadata = {
   title: {
@@ -71,6 +72,7 @@ export default function RootLayout({ children }) {
             </nav>
           </header>
           {children}
+          <SpeedInsights />
           <hr className="mt-16" />
           <footer>
             <Footer />

@@ -38,8 +38,15 @@ export const metadata = {
     images: [
       {
         url: "https://gigglesnshit-gamma.vercel.app/beach-bums.jpg",
-        width: 850,
-        height: 850,
+        width: 425,
+        height: 425,
+        alt: "My two littles ladies relaxing on the beach, looking into the water and letting it touch their toes.",
+      },
+      {
+        url: "https://gigglesnshit-gamma.vercel.app/family.jpg",
+        width: 600,
+        height: 400,
+        alt: "Our little family in a portrait photo, while we sit in the grass during the golden hour.",
       },
     ],
     locale: "en_CA",

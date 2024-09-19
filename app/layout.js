@@ -28,6 +28,7 @@ export const metadata = {
     canonical: "/",
   },
   openGraph: {
+    site_name: "Giggles N Shit --Blog",
     title: "Giggles N Shit --Blog",
     description:
       "Join me as I narrate my first attempt at parenting. As a stay at home daddy, it is not your most conventional family life. Expect lots of love, laughter and poo mixed into these stories!",

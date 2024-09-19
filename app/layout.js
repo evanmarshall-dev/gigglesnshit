@@ -30,11 +30,11 @@ export const metadata = {
     canonical: "/",
   },
   openGraph: {
-    site_name: "Giggles N Shit --Blog",
     title: "Giggles N Shit --Blog",
     description:
       "Join me as I narrate my first attempt at parenting. As a stay at home daddy, it is not your most conventional family life. Expect lots of love, laughter and poo mixed into these stories!",
     url: "https://gigglesnshit-gamma.vercel.app",
+    siteName: "Giggles N Shit --Blog",
     images: [
       {
         url: "https://gigglesnshit-gamma.vercel.app/beach-bums.jpg",
@@ -51,6 +51,7 @@ export const metadata = {
     ],
     locale: "en_CA",
     type: "website",
+    authors: ["Evan Marshall"],
   },
   robots: {
     index: true,

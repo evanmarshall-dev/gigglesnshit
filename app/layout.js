@@ -23,7 +23,7 @@ export const metadata = {
     { name: "Evan Marshall", url: "https://github.com/evanmarshall-dev" },
   ],
   creator: "Evan Marshall",
-  metadataBase: new URL("https://giggles-n-shit-blog.vercel.app/"),
+  metadataBase: new URL("https://gigglesnshit-gamma.vercel.app"),
   alternates: {
     canonical: "/",
   },
@@ -31,10 +31,10 @@ export const metadata = {
     title: "Giggles N Shit --Blog",
     description:
       "Join me as I narrate my first attempt at parenting. As a stay at home daddy, it is not your most conventional family life. Expect lots of love, laughter and poo mixed into these stories!",
-    url: "https://giggles-n-shit-blog.vercel.app/",
+    url: "https://gigglesnshit-gamma.vercel.app",
     images: [
       {
-        url: "https://giggles-n-shit-blog.vercel.app/beach-bums.jpg",
+        url: "https://gigglesnshit-gamma.vercel.app/beach-bums.jpg",
         width: 850,
         height: 850,
       },
@@ -53,7 +53,7 @@ export const metadata = {
     // siteId: "1467726470533754880",
     // creator: "@nextjs",
     // creatorId: "1467726470533754880",
-    images: ["https://giggles-n-shit-blog.vercel.app/beach-bums.jpg"],
+    images: ["https://gigglesnshit-gamma.vercel.app/beach-bums.jpg"],
   },
 };
 

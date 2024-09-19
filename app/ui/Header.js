@@ -4,7 +4,7 @@ export default function Header() {
   return (
     <>
       <Link href={"/"}>
-        <h1 className="pt-8 text-2xl font-extrabold text-gray-900 md:text-3xl lg:text-4xl">
+        <h1 className="pt-8 text-2xl font-extrabold text-gray-900 md:text-3xl lg:text-4xl hover:text-gray-400 hover:underline transition">
           Giggles N Shit --Blog
         </h1>
       </Link>

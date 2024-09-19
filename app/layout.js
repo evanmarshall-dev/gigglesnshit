@@ -72,6 +72,7 @@ export default function RootLayout({ children }) {
               <Header />
             </nav>
           </header>
+          <hr className="mt-8" />
           {children}
           <Analytics />
           <SpeedInsights />

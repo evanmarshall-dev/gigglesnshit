@@ -5,7 +5,7 @@ export default function SearchBar(props) {
 
   return (
     <input
-      className="mt-8 p-2 w-full border border-gray-500 rounded-lg"
+      className="mx-auto mt-8 p-2 w-5/6 border border-gray-500 rounded-lg"
       placeholder="Search blog posts..."
       value={searchValue}
       onChange={(e) => {

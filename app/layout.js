@@ -31,20 +31,28 @@ export const metadata = {
     canonical: "/",
   },
   openGraph: {
-    site_name: "Giggles N Shit --Blog",
     title: "Giggles N Shit --Blog",
     description:
       "Join me as I narrate my first attempt at parenting. As a stay at home daddy, it is not your most conventional family life. Expect lots of love, laughter and poo mixed into these stories!",
     url: "https://gigglesnshit-gamma.vercel.app",
+    siteName: "Giggles N Shit --Blog",
     images: [
       {
         url: "https://gigglesnshit-gamma.vercel.app/beach-bums.jpg",
-        width: 850,
-        height: 850,
+        width: 425,
+        height: 425,
+        alt: "My two littles ladies relaxing on the beach, looking into the water and letting it touch their toes.",
+      },
+      {
+        url: "https://gigglesnshit-gamma.vercel.app/family.jpg",
+        width: 600,
+        height: 400,
+        alt: "Our little family in a portrait photo, while we sit in the grass during the golden hour.",
       },
     ],
     locale: "en_CA",
     type: "website",
+    authors: ["Evan Marshall"],
   },
   robots: {
     index: true,
@@ -73,6 +81,7 @@ export default function RootLayout({ children }) {
               <Header />
             </nav>
           </header>
+          <hr className="mt-8" />
           {children}
           <Analytics />
           <SpeedInsights />

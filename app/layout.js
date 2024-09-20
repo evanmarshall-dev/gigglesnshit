@@ -4,6 +4,7 @@ import Footer from "@/app/ui/Footer";
 import Header from "@/app/ui/Header";
 import { Analytics } from "@vercel/analytics/react";
 import { SpeedInsights } from "@vercel/speed-insights/next";
+import ToTopBtn from "./ui/ToTopBtn";
 
 export const metadata = {
   title: {
@@ -65,7 +66,7 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <body>
         <main
-          className={`${roboto_mono.variable} font-mono max-w-7xl antialiased min-h-screen text-center mx-auto`}
+          className={`${roboto_mono.variable} font-mono max-w-7xl antialiased min-h-screen text-center mx-auto scroll-smooth`}
         >
           <header>
             <nav>
@@ -75,6 +76,7 @@ export default function RootLayout({ children }) {
           {children}
           <Analytics />
           <SpeedInsights />
+          <ToTopBtn />
           <hr className="mt-16" />
           <footer>
             <Footer />

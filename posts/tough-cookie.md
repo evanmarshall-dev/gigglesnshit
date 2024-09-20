@@ -11,7 +11,7 @@ Our first week started out with a bang. Katie and I had come to terms with the f
 
 ### Please enjoy this clip from one of Isla’s (a.k.a, one of my) favourite shows. I think it emphasizes how much she like to move it!
 
-**[I like to move it move it](https://youtu.be/hdcTmpvDO0I)**
+**[Click Here](https://youtu.be/hdcTmpvDO0I)**
 
 ---
 

@@ -1,6 +1,6 @@
 export default function Footer() {
   return (
-    <div className="py-8">
+    <div className="pt-8">
       Carefully crafted by&nbsp;
       <a
         href="https://www.evanmarshall.dev"

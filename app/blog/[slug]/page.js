@@ -29,6 +29,12 @@ export async function generateMetadata({ params }) {
   };
 }
 
+const CustomAnchor = ({ children, ...props }) => (
+  <a {...props} target="_blank" rel="noopener noreferrer">
+    {children}
+  </a>
+);
+
 export default function BlogPage(props) {
   const slug = props.params.slug;
   // ? const post = getPostContent(slug);
@@ -75,6 +81,12 @@ export default function BlogPage(props) {
         component: "hr",
         props: {
           className: "custom-hr",
+        },
+      },
+      a: {
+        component: CustomAnchor,
+        props: {
+          className: "custom-a",
         },
       },
     },

@@ -72,16 +72,13 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body>
-        <main
-          className={`${roboto_mono.variable} font-mono max-w-7xl antialiased min-h-screen text-center mx-auto scroll-smooth`}
-        >
+      <body
+        className={`${roboto_mono.variable} font-mono max-w-7xl antialiased min-h-screen text-center mx-auto scroll-smooth px-6 py-8 text-ebony bg-wild_sand`}
+      >
+        <main>
           <header>
-            <nav>
-              <Header />
-            </nav>
+            <Header />
           </header>
-          <hr className="mt-8" />
           {children}
           <Analytics />
           <SpeedInsights />

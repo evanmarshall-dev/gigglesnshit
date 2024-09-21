@@ -5,6 +5,7 @@ import Header from "@/app/ui/Header";
 import { Analytics } from "@vercel/analytics/react";
 import { SpeedInsights } from "@vercel/speed-insights/next";
 import ToTopBtn from "./ui/ToTopBtn";
+import { GoogleTagManager } from "@next/third-parties/google";
 
 export const metadata = {
   title: {
@@ -72,9 +73,18 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
+      <GoogleTagManager gtmId="GTM-KS5JDC7P" />
       <body
         className={`${roboto_mono.variable} font-mono max-w-7xl antialiased min-h-screen text-center mx-auto scroll-smooth py-8 text-ebony bg-wild_sand`}
       >
+        <noscript>
+          <iframe
+            src="https://www.googletagmanager.com/ns.html?id=GTM-KS5JDC7P"
+            height="0"
+            width="0"
+            style={{ display: "none", visibility: "hidden" }}
+          ></iframe>
+        </noscript>
         <main>
           <header>
             <Header />

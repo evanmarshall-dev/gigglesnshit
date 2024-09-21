@@ -8,11 +8,15 @@ export default function SearchView(props) {
   const { postMetadata } = props;
   const [searchValue, setSearchValue] = useState("");
 
+  const sortedPostMetadata = postMetadata.sort(
+    (a, b) => new Date(a.date) - new Date(b.date)
+  );
+
   return (
     <>
       <SearchBar searchValue={searchValue} setSearchValue={setSearchValue} />
       <div className="grid grid-cols-1 gap-3.5 md:grid-cols-2 md:gap-7">
-        {postMetadata
+        {sortedPostMetadata
           .filter((val) => {
             return val.title.toLowerCase().includes(searchValue.toLowerCase());
           })

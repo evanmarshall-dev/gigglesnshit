@@ -26,7 +26,7 @@ export const metadata = {
     { name: "Evan Marshall", url: "https://github.com/evanmarshall-dev" },
   ],
   creator: "Evan Marshall",
-  metadataBase: new URL("https://gigglesnshit-gamma.vercel.app"),
+  metadataBase: new URL("https://www.gigglesnshit.me"),
   alternates: {
     canonical: "/",
   },
@@ -34,17 +34,17 @@ export const metadata = {
     title: "Giggles N Shit --Blog",
     description:
       "Join me as I narrate my first attempt at parenting. As a stay at home daddy, it is not your most conventional family life. Expect lots of love, laughter and poo mixed into these stories!",
-    url: "https://gigglesnshit-gamma.vercel.app",
+    url: "https://www.gigglesnshit.me",
     siteName: "Giggles N Shit --Blog",
     images: [
       {
-        url: "https://gigglesnshit-gamma.vercel.app/beach-bums.jpg",
+        url: "https://www.gigglesnshit.me/beach-bums.jpg",
         width: 425,
         height: 425,
         alt: "My two littles ladies relaxing on the beach, looking into the water and letting it touch their toes.",
       },
       {
-        url: "https://gigglesnshit-gamma.vercel.app/family.jpg",
+        url: "https://www.gigglesnshit.me/family.jpg",
         width: 600,
         height: 400,
         alt: "Our little family in a portrait photo, while we sit in the grass during the golden hour.",
@@ -65,7 +65,7 @@ export const metadata = {
     // siteId: "1467726470533754880",
     // creator: "@nextjs",
     // creatorId: "1467726470533754880",
-    images: ["https://gigglesnshit-gamma.vercel.app/beach-bums.jpg"],
+    images: ["https://www.gigglesnshit.me/beach-bums.jpg"],
   },
 };
 

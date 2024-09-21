@@ -13,7 +13,7 @@ export default function Header() {
 
   return (
     <nav className="bg-ebony text-wild_sand fixed w-full z-20 top-0 start-0">
-      <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
+      <div className="max-w-screen-xl flex flex-col justify-center md:flex-row flex-wrap items-center md:justify-between mx-auto p-4">
         <Link href={"/"}>
           <h1 className="text-2xl text-wild_sand font-semibold hover:text-sandrift active:text-sandrift transition">
             Giggles N Shit --Blog
@@ -22,7 +22,7 @@ export default function Header() {
         <button
           onClick={toggleMenu}
           type="button"
-          className="inline-flex items-center p-2 w-10 h-10 justify-center text-sm text-gray-500 rounded-lg md:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200 dark:text-gray-400 dark:hover:bg-gray-700 dark:focus:ring-gray-600"
+          className="inline-flex items-center p-2 w-10 h-10 justify-center text-sm text-gray-500 rounded-lg md:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200 dark:text-gray-400 dark:hover:bg-gray-700 dark:focus:ring-gray-600 mt-4 md:mt-0"
           aria-controls="navbar-sticky"
           aria-expanded={isMenuOpen}
         >

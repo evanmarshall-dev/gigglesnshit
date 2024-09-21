@@ -93,7 +93,7 @@ export default function BlogPage(props) {
   };
 
   return (
-    <article>
+    <article className="px-6">
       <div className="grid grid-cols-1 gap-2 mt-16 mb-8 mx-auto md:mx-8">
         <div className="relative h-[480px]">
           <Image

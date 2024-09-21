@@ -73,7 +73,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body
-        className={`${roboto_mono.variable} font-mono max-w-7xl antialiased min-h-screen text-center mx-auto scroll-smooth px-6 py-8 text-ebony bg-wild_sand`}
+        className={`${roboto_mono.variable} font-mono max-w-7xl antialiased min-h-screen text-center mx-auto scroll-smooth py-8 text-ebony bg-wild_sand`}
       >
         <main>
           <header>

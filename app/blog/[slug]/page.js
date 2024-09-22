@@ -108,7 +108,12 @@ export default function BlogPage(props) {
       <h2 className="mb-2 text-xl font-extrabold text-gray-900 md:text-2xl lg:text-3xl">
         {data.title}
       </h2>
-      <p className="mb-8 font-bold">{data.date}</p>
+      <p>
+        <strong>{data.date}</strong>
+      </p>
+      <p className="mb-8 underline">
+        <em>{`By: ${data.author}`}</em>
+      </p>
       <Markdown options={options}>{content}</Markdown>
     </article>
   );

@@ -3,6 +3,7 @@ title: "Bumps in the Road"
 date: "2016-06-07"
 excerpt: "Who said parenting was hard? That person is nuts! Just kidding, parenting can be tough, but..."
 cover_image: "/images/posts/car-seat.webp"
+author: "Evan Marshall"
 ---
 
 Who said parenting was hard? That person is nuts! Just kidding, parenting can be tough, but again it is all about perspective. When you have a sick child it can be tricky to determine whether fussiness is due to their disease or if fussiness is due to normal baby things (teething, gas, etc). We are at the point now where the normal baby things are a breeze. I have seen first time parents jump at any sniffle with their babies and we have been so over that. When you have to be on guard for things like: blood in the stool, fever due to intestinal infection, jaundice worsening, rashes, excessive itching, fluid in the abdomen, loss of appetite, etc; a quick sniffle or whimper doesn’t phase you anymore. All of this doesn't mean we haven’t had our fair share of “hair pulling” moments caused by normal baby things throughout Isla’s first half of a year.

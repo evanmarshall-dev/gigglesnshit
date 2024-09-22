@@ -3,6 +3,7 @@ title: "Summer in the Six: Part III"
 date: "2016-10-16"
 excerpt: "Isla was on her way to surgery and I had gained a modest sense of relief knowing that..."
 cover_image: "/images/posts/surgery.webp"
+author: "Evan Marshall"
 ---
 
 Isla was on her way to surgery and I had gained a modest sense of relief knowing that she would be given some good drugs to ease her pain. The next time I would see her she would be on the road to recovery and a new life. The next six to eight hours I tried my best to keep my mind from wandering, I jumped at so much as a beep from my phone, and I kept all of the loved ones updated via a Facebook messaging group. Now it was time to cross the street and head towards the surgical waiting room of the Toronto General Hospital. First thing’s first, I had to hook myself up with a Venti Iced Passion Tango Tea from Starbucks (the employees didn’t know it at the time, but they would soon know me by name).

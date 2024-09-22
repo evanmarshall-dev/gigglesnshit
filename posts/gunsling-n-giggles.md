@@ -3,6 +3,7 @@ title: "Gunsling N Giggles"
 date: "2016-06-22"
 excerpt: "It’s always interesting how much entertainment a child adds to your life. Life, pre-family, has..."
 cover_image: "/images/posts/pooface.jpg"
+author: "Evan Marshall"
 ---
 
 ## Life with a Baby

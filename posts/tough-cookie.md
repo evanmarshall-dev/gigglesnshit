@@ -3,6 +3,7 @@ title: "Tough Cookie"
 date: "2016-04-26"
 excerpt: "Our first week started out with a bang. Katie and I had come to terms with the fact that Isla most likely had..."
 cover_image: "/images/posts/xmas.webp"
+author: "Evan Marshall"
 ---
 
 Our first week started out with a bang. Katie and I had come to terms with the fact that Isla most likely had Biliary Atresia, but there was still a little hope in the back of our minds that she might still be fucking with us (too bad it wasn’t April fools). Our mornings began with wake up sessions from the blood lab. Isla, the tough cookie, did not really mind the little poke on the bottom of her heel. What she did mind was the restraint caused by one of the technicians holding her leg straight as the other quickly scraped blood into a test tube, drop by drop (the girl just liked to move it, move it!).

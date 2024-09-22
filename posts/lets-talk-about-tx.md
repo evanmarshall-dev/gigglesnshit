@@ -3,6 +3,7 @@ title: "Let's Talk About Tx"
 date: "2016-09-06"
 excerpt: "In April we went to our routine monthly GI Clinic visit. I say monthly, however, it had been..."
 cover_image: "/images/posts/tx.webp"
+author: "Evan Marshall"
 ---
 
 In April we went to our routine monthly GI Clinic visit. I say monthly, however, it had been a while since Isla let us go a whole month without a hospital visit. They were becoming more and more frequent due to her condition worsening by the week. The GI team had been phenomenal with handling our worries and they were becoming very close to our little lady. Thankfully they had always taken Katie and my concerns seriously probably because only one out of the many calls to the IWK Switchboard had turned out to be a false alarm in the last six months. We had been to the hospital for ascites (fluid buildup in the abdomen), for a fever, and many surprise blood draws. Isla was continually progressing in her yellowy-olive tan (probably should ease off on the Banana Boat tanner). She was vomiting more due to the disgusting medications she was on (for example one tasted like a handful of salt and was to be given three times a day). I was getting to the point of spending the majority of my day administering medications, cleaning up her puke, changing her clothes, and consoling her. I began to derive a strategy to limit the puking:

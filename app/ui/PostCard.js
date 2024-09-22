@@ -9,7 +9,7 @@ export default function PostCard(props) {
       href={`/blog/${post.slug}`}
     >
       <div className="hover:border-[#cbd5e1] p-3.5 md:p-7 bg-white flex flex-col gap-3.5 rounded-2xl h-full border border-solid border-transparent duration-200 shadow">
-        <h3>{post.title}</h3>
+        <h2 className="text-2xl font-bold">{post.title}</h2>
         <Image
           src={post.cover_image}
           width={150}
@@ -17,7 +17,8 @@ export default function PostCard(props) {
           className="mx-auto"
           alt={`Main image for ${post.title}`}
         />
-        <p className="flex-1 text-[#475569]">{post.date}</p>
+        <strong>{post.date}</strong>
+        <em className="underline flex-1 text-[#475569]">{`By: ${post.author}`}</em>
         <div className="grid grid-cols-1 gap-3.5">
           <div>
             {/* <h5>Excerpt</h5> */}

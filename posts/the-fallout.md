@@ -3,6 +3,7 @@ title: "The Fallout"
 date: "2016-05-03"
 excerpt: "We all survived the surgery. Isla had about a week of recovery on the surgical unit of the IWK Hospital. The rooms..."
 cover_image: "/images/posts/santa.webp"
+author: "Evan Marshall"
 ---
 
 ## Recovery Week

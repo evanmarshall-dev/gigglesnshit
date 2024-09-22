@@ -3,6 +3,7 @@ title: "The Bomb Drop: Part I"
 date: "2016-04-11"
 excerpt: "So here we are. It is Monday April 11th (5 days before Katie's 28th birthday. Had to say that in..."
 cover_image: "/images/posts/the-bomb-1.webp"
+author: "Evan Marshall"
 ---
 
 So here we are. It is Monday April 11th (5 days before Katie's 28th birthday. Had to say that in this post as she never remembers her age and it is scary). It will be Isla's third trip to see her pediatrician. This Thursday will be her zillionth time seeing her GI specialist and blood clinic (I know, zillion is an exaggeration, but it's been a lot). The thing is, am I going to tell you why? Of course not! You will have to read on punk! Oooohhh, bomb drop, no he didn't? Yes he did! Title drop... I digress.

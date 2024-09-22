@@ -3,6 +3,7 @@ title: "The Bomb Drop: Part II"
 date: "2016-04-19"
 excerpt: "The nail-biting day had arrived. The day we were to find out if our precious little peanut was just messing with us or..."
 cover_image: "/images/posts/hospital.webp"
+author: "Evan Marshall"
 ---
 
 The nail-biting day had arrived. The day we were to find out if our precious little peanut was just messing with us or about to change our lives. We had packed for about a week and had hoped it would not be any longer than that. Usually having most of our close friends living in Halifax (1.5 hours away from home) was inconvenient unless we needed a place to crawl back to after a night of “apple juice” drinking, however, this trip it was a god-send. Especially my best bud’s wife, Cindy. They lived about a 10 minute walk from the IWK and they went above and beyond during our stay at the hospital. They offered a room in their house for us to stay, if needed, and Cindy checked in on us almost everyday. Katie and I dropped off all of our luggage at the Snillis’ (name changed in order to protect their identity) and headed to the hospital to get Isla admitted. Who would have known Isla’s first big outing would be to the IWK, how exciting…

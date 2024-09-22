@@ -3,6 +3,7 @@ title: "Summer in the Six: Part II"
 date: "2016-10-02"
 excerpt: "Katie was approved to save Isla’s life! Wow, what an important call and what..."
 cover_image: "/images/posts/beads.webp"
+author: "Evan Marshall"
 ---
 
 Katie was approved to save Isla’s life! Wow, what an important call and what an amazing healthcare system we have. Isla’s and Katie’s surgeries were booked for June 30th, 2016. At this moment in time we were to prepare to fly back to Toronto next Sunday (didn’t I tell you things happened quickly?). We were both full of mixed emotions and nerves. When Katie arrived home from work after “the call,” we just stared at our swollen and yellow baby similar to how we lovingly stared at her for a full day after she was born. What kind of parents were we to be looking forward to such a large procedure and painful recovery process? But it wasn’t that; we were looking forward to getting back a normal life in which we were robbed of almost eight months ago. We were looking forward to the frequent hospital trips and battery of medications to come to an end; or at least become much rarer than they were now. We were looking forward to ending the constant: “is this fart and sniffle her disease flaring up again? Or is it just normal baby stuff?” Of course we would remain vigilant, a transplant does not take away ALL risk whatsoever, but the concerns would be less. So many thoughts running through our heads, but “shit!” we gotsta get ourselves packed...

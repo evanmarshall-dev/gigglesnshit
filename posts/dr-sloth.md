@@ -3,6 +3,7 @@ title: "Dr. Sloth"
 date: "2016-04-05"
 excerpt: "Leading up to Labour Day was like those stupid Facebook videos with the beautiful rolling hills, somber..."
 cover_image: "/images/posts/peanut.webp"
+author: "Evan Marshall"
 ---
 
 _Let's recap: We had an awkward butt wiping, we had a Halloween-long-John reception, we had watermelons flying and a peanut butter burgers feast. Now we are finally here. We are at the day that you know is coming, you try to prepare for, but always end up in a bag full-o-emotions. Labour Day, and not the fun one._

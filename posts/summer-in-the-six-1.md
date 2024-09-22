@@ -3,6 +3,7 @@ title: "Summer in the Six: Part I"
 date: "2016-09-19"
 excerpt: "It was time. Isla, Katie, and my first big trip to the big city. Pediatric Liver transplants are..."
 cover_image: "/images/posts/plane.webp"
+author: "Evan Marshall"
 ---
 
 It was time. Isla, Katie, and my first big trip to the big city. Pediatric Liver transplants are not performed in the Atlantic provinces so all of us crazy Maritimers and Newfies are shipped off to Toronto for these procedures. However, this trip would not be for transplant, rather it would be to meet with the transplant team and have Isla assessed. Depending on the results for her assessment there would be three different outcomes:

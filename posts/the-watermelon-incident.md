@@ -3,6 +3,7 @@ title: "The Watermelon Incident"
 date: "2016-03-28"
 excerpt: 'Nine months of: "You will want to pull your hair out!" Nine months of: "Crazy...'
 cover_image: "/images/posts/watermelon.webp"
+author: "Evan Marshall"
 ---
 
 Nine months of: "You'll want to pull your hair out!" Nine months of: "Crazy mood swings and cravings." When people find out you are going to become a parent, a grey cloud emerges in the sky, thunder crashes around you, a red haze fills the air and pure evil seems to indoctrinate anyone you speak to. "Once that miniature devil is born, say goodbye to your life as you know it and hello to the worse years of your life!" "That thing will ruin your wife's body and you will never sleep, have sex, or a peaceful moment again!" Really people? Is it really that bad or are you just boring and narcissistic about accomplishing such an amazing feat that you just HAVE to tell the world about how you survived it? Why the hell do people even start a family if it's so overwhelmingly difficult?

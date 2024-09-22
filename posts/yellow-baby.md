@@ -3,6 +3,7 @@ title: "Yellow Baby"
 date: "2016-08-17"
 excerpt: "We arrived at the six month mark in May. Our confidence in parenting and routine had increased ten fold. Our months included..."
 cover_image: "/images/posts/yellow.webp"
+author: "Evan Marshall"
 ---
 
 We arrived at the six month mark in May. Our confidence in parenting and routine had increased ten fold. Our months included regular visits to the blood lab to obtain results for Isla’s liver treatments as well as GI clinic visits. The lovely staff at the blood lab started to anticipate Isla's visits with great joy to which I always said: "Thank you, nothing personal, but I wish she was beloved by a different group of people.”

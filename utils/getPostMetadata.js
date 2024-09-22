@@ -14,6 +14,7 @@ export default function getPostMetadata(basePath) {
       date: matterResult.data.date,
       excerpt: matterResult.data.excerpt,
       cover_image: matterResult.data.cover_image,
+      author: matterResult.data.author,
       slug: filename.replace("md", ""),
     };
   });

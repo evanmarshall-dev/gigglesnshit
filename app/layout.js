@@ -57,6 +57,8 @@ export const metadata = {
   },
   robots: {
     index: true,
+    // follow: true,
+    // nocache: true,
   },
   twitter: {
     card: "summary_large_image",

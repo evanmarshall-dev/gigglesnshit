@@ -33,8 +33,21 @@ export const generateStaticParams = async () => {
 export async function generateMetadata({ params }) {
   // If the slug does exist we assign params?.slug to id, else we assign an empty string.
   const id = params?.slug ? params?.slug : "";
+  // const { data } = getPostContent(id);
+
   return {
     title: `${id.replaceAll("-", " ").toUpperCase()}`,
+    // description: data.excerpt,
+    // openGraph: {
+    //   title: `${id.replaceAll("-", " ").toUpperCase()}`,
+    //   description: data.excerpt,
+    //   images: [
+    //     {
+    //       url: `https://gigglesnshit.me/images/${data.cover_image}.webp`,
+    //       alt: `Main image for blog: ${id.replaceAll("-", " ").toUpperCase()}`,
+    //     },
+    //   ],
+    // },
   };
 }
 

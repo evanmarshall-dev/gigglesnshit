@@ -70,6 +70,25 @@ export const metadata = {
     // creatorId: "1467726470533754880",
     images: ["https://www.gigglesnshit.me/beach-bums.jpg"],
   },
+  // icons: {
+  //   icon: [
+  //     { url: "/icon.png" },
+  //     new URL("/icon.png", "https://example.com"),
+  //     { url: "/icon-dark.png", media: "(prefers-color-scheme: dark)" },
+  //   ],
+  //   shortcut: ["/shortcut-icon.png"],
+  //   apple: [
+  //     { url: "/apple-icon.png" },
+  //     { url: "/apple-icon-x3.png", sizes: "180x180", type: "image/png" },
+  //   ],
+  //   other: [
+  //     {
+  //       rel: "apple-touch-icon-precomposed",
+  //       url: "/apple-touch-icon-precomposed.png",
+  //     },
+  //   ],
+  // },
+  manifest: "https://www.gigglesnshit.me/site.webmanifest.json",
 };
 
 export default function RootLayout({ children }) {

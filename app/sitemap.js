@@ -6,12 +6,12 @@ export default function sitemap() {
       changeFrequency: "monthly",
       priority: 1,
     },
-    {
-      url: "https://www.gigglesnshit.me/blog",
-      lastModified: new Date(),
-      changeFrequency: "weekly",
-      priority: 0.8,
-    },
+    // {
+    //   url: "https://www.gigglesnshit.me/blog",
+    //   lastModified: new Date(),
+    //   changeFrequency: "weekly",
+    //   priority: 0.8,
+    // },
     {
       url: "https://www.gigglesnshit.me",
       lastModified: "2024-09-21",

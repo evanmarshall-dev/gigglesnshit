@@ -4,10 +4,16 @@ import matter from "gray-matter";
 import fs from "fs";
 import Image from "next/image";
 
+// Utility function which takes a slug and fetches the content from the markdown posts that matches the slug.
 function getPostContent(slug) {
+  console.log(`Received slug: ${slug}`);
+
   const folder = "posts/";
-  const file = folder + `${slug}md`;
-  const content = fs.readFileSync(file, "utf-8");
+  const file = folder + `${slug}.md`;
+
+  console.log(`Constructed file path: ${file}`);
+
+  const content = fs.readFileSync(file, "utf8");
 
   const matterResult = matter(content);
   // ? return matterResult;
@@ -17,15 +23,18 @@ function getPostContent(slug) {
   };
 }
 
+// When we build the pages it will get all of the posts and it will create a URL/page for every post.slug that it finds (This function uses getPostMetadata imported at top of file).
 export const generateStaticParams = async () => {
   const posts = getPostMetadata("posts");
   return posts.map((post) => ({ slug: post.slug }));
 };
 
+// Allows us to get the metadata for the page
 export async function generateMetadata({ params }) {
+  // If the slug does exist we assign params?.slug to id, else we assign an empty string.
   const id = params?.slug ? params?.slug : "";
   return {
-    title: `${id.replaceAll("-", " ").toUpperCase().slice(0, -1)}`,
+    title: `${id.replaceAll("-", " ").toUpperCase()}`,
   };
 }
 
